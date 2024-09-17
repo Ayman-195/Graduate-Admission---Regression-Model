@@ -12,7 +12,9 @@ This project focuses on predicting the chances of admission to a master's progra
 - **Chance of Admit** (ranging from 0 to 1)
 
 The goal is to predict the probability of admission based on these factors and identify which factors play a more significant role in the admission decision.
+
 [For more information]([https://www.openai.com](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data))
+
 ## Contents
 - **Introduction**
 - **Importing Libraries**
